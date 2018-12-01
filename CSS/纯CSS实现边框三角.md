@@ -51,8 +51,11 @@
    border-right: 50px solid transparent;
 }
 ```
+
 3.得到三角形
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20181201164350390.png)
+
 
 <br/>
 
